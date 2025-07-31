@@ -40,7 +40,7 @@ This project includes product listing with **pagination**, detailed product view
 
 ## 📹 Demo Video
 
-[![Watch the video](https://youtube.com/shorts/xX8UMv0nPik?feature=share)
+[![Watch the video](https://www.youtube.com/shorts/xX8UMv0nPik)
 
  
 ---
