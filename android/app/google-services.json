@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830158498441",
+    "project_id": "uzum-dde5a",
+    "storage_bucket": "uzum-dde5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830158498441:android:1873d08cae29e15288f458",
+        "android_client_info": {
+          "package_name": "uz.flutterchi.uzum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0ol2kiuGDrvQH_xWaKwEt_Rqv_zz5O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
